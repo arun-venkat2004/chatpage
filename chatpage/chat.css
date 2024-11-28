@@ -1,0 +1,32 @@
+.a {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.b {
+    font-family: "Roboto";
+    color: white;
+    background: #323f4b;
+    height: 55px;
+    padding: 5px;
+    text-align: center;
+
+}
+
+.c {
+    background: #47a3f3;
+    height: 30px;
+    padding: 10px;
+    font-family: sans-serif;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 12px;
+    text-align: right;
+    color: white;
+}
+
+.d {
+    background-color: #52606d;
+    text-align: left;
+}
